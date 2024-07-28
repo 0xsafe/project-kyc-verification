@@ -1,12 +1,12 @@
 # KYC Verification
-0xsafe's KYC verification aims to bring trust and transparency to blockchain projects. In this repo, we'll upload certificates of KYC verified projects. To request KYC verification, contact https://t.me/Oxsafe
+0xsafe's KYC verification aims to bring trust and transparency to blockchain projects. In this repo, we'll upload certificates of KYC-verified projects. To request KYC verification, contact https://t.me/Oxsafe
 
 
 ## About 0xsafe
 
 0xsafe provides intelligent blockchain solutions. We provide smart contract security, KYC, development, and token launch services. We have helped 100s of projects to succeed. 
 
-Website: https://0xsafe.io
+Website: https://0xsafe.netlify.app
 
 GitHub: https://github.com/0xsafe
 
